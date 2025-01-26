@@ -1,9 +1,8 @@
 // import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
 // import 'package:internet_connection_checker_plus/internet_connection_checker_plus.dart';
+// import 'package:jeb_ui/main.dart';
 // import 'package:local_auth/local_auth.dart';
-// import 'BottomNavBar.dart';
-//
 // Future<void> authenticateWithBiometrics(BuildContext context) async {
 //   final LocalAuthentication localAuth = LocalAuthentication();
 //   try {
