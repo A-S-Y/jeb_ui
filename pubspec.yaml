@@ -43,6 +43,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   generate: true # Enable generation of localization files
+  # Localizations source
+  # By default, Flutter uses lib/l10n/ for ARB files generated to dart via flutter_gen
 
   assets:
     - assets/images/jaiblogo.png
